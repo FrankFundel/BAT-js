@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "onnxruntime-node": "^1.12.1"
+  }
+}

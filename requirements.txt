@@ -1,0 +1,6 @@
+librosa
+numpy
+torch
+scipy
+tqdm
+# einops
